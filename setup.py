@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name = 'Roman Numerals',
+    name = 'Roman Numerals Simple',
     version = '1.0.0',
     url = 'https://github.com/gaming32/roman-numerals',
     author = 'Gaming32',

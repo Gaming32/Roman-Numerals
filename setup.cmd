@@ -1,5 +1,6 @@
 del /q dist\*
-python setup.py sdist bdist_wheel
+py -3 setup.py sdist bdist_wheel
+py -2 setup.py sdist bdist_wheel
 
 twine check dist\*
 if %ERRORLEVEL%==0 (
