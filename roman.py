@@ -1,3 +1,7 @@
+from __future__ import print_function
+
+
+
 _value_list = [
     1000, 900, 500, 400,
     100, 90, 50, 40,

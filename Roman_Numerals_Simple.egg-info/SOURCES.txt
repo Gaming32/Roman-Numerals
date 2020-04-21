@@ -1,7 +1,0 @@
-README.md
-roman.py
-setup.py
-Roman_Numerals_Simple.egg-info/PKG-INFO
-Roman_Numerals_Simple.egg-info/SOURCES.txt
-Roman_Numerals_Simple.egg-info/dependency_links.txt
-Roman_Numerals_Simple.egg-info/top_level.txt
